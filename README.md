@@ -50,7 +50,7 @@ yarn start
 4. Make sure the following ports are available:
 
 ```sh
-PORTS: 3001 and 3001.
+PORTS: 3000 and 3001.
 ```
 
 5. Access the application through the following link afer doing the steps 1 - 4.
