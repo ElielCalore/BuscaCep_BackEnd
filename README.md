@@ -1,6 +1,6 @@
 # Traders Club Challenge
 
-![Traders Club Challenge](/assets/images/print.png)
+![Search zip code](/assets/images/print.png)
 
 ## About The Project
 
