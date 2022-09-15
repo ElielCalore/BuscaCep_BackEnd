@@ -1,4 +1,4 @@
-# Traders Club Challenge
+# Search zip code
 
 ![Search zip code](/assets/images/print.png)
 
