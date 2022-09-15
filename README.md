@@ -5,7 +5,7 @@
 ## About The Project
 
 Develop an application in NodeJS to fetch the address, according to the zip code
-informed
+informed using the ViaCEP api (https://viacep.com.br/).
 
 ### Built With:
 
