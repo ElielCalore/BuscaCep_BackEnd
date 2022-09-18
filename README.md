@@ -1,6 +1,6 @@
 # Search zip code
 
-![Search zip code](/assets/images/print.png)
+![Search zip code](/assets/images/home.jpg)
 
 ## About The Project
 
