@@ -8,11 +8,9 @@ Develop an application in NodeJS to fetch the address, according to the zip code
 informed using the ViaCEP api (https://viacep.com.br/).
 
 ### Built With:
-
-- [Javascript](https://nodejs.org/en/) - Programming language.
-- [ReactJS](https://pt-br.reactjs.org/) - Uma biblioteca JavaScript para criar interfaces de usuário.
-- [Bootstrap](https://nodejs.org/en/) - Build fast, responsive sites with Bootstrap.
 - [NodeJS](https://nodejs.org/en/) - Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
+- [MoogooseJS](https://mongoosejs.com/) - elegant mongodb object modeling for node.js.
+- [ExpressJS](https://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js.
 
 
 <!-- GETTING STARTED -->
@@ -35,28 +33,28 @@ In order to run this project locally you will need to:
 git clone https://github.com/ElielCalore/BuscaCep_BackEnd
 ```
 
-2. Install YARN packages
+2. Install NPM packages
 
 ```sh
-yarn add
+npm install
 ```
 
 3. Run the app
 
 ```sh
-yarn start
+npm run dev
 ```
 
 4. Make sure the following ports are available:
 
 ```sh
-PORTS: 3000 and 3001.
+PORTS: 3001.
 ```
 
 5. Access the application through the following link afer doing the steps 1 - 4.
 
 ```sh
-http://localhost:3000/
+http://localhost:3001/
 ```
 
 <!-- CONTACT -->

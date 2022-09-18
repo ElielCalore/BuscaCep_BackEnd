@@ -3,6 +3,7 @@ const app = express();
 const cors = require("cors");
 require('dotenv').config();
 
+
 app.use(express.json());
 app.use(cors({ origin: process.env.REACT_APP_URL }));
 
